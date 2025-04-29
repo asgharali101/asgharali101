@@ -1,6 +1,6 @@
 # Hi there, I'm Asghar Ali! 👋
 
-I'm a **WordPress, Tailwind CSS, and PHP Developer** with a strong background in building custom websites. I specialize in creating visually appealing, responsive, and functional designs that perfectly align with my clients' needs. Over the years, I've worked on a variety of projects, including **E-commerce sites, School Management, LMS, Real state, Blogs&News, SMS and Portfolio Websites**, helping businesses establish a **strong online presence**.
+I'm a **WordPress, Tailwind CSS, and PHP Developer** with a strong background in building custom websites. I specialize in creating visually appealing, responsive, and functional designs that perfectly align with my clients' needs. Over the years, I've worked on a variety of projects, including **E-commerce sites, School Management, LMS, Real state, Blogs&News, Restaurants and Portfolio Websites**, helping businesses establish a **strong online presence**.
 
 ---
 
