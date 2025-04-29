@@ -17,7 +17,7 @@ I'm a **WordPress, Tailwind CSS, and PHP Developer** with a strong background in
 
 ## 🚀 **My Expertise**
 
-- **🚀 Laravel: Building robust, secure, and efficient web applications with elegant code structures.
+- **🚀 Laravel**: Building robust, secure, and efficient web applications with elegant code structures.
 - **📝 WordPress**: Creating customizable and powerful websites.
 - **🎨 Tailwind CSS**: Crafting stunning, responsive designs with ease.
 - **🗃️ MySQL**: Designing and managing robust databases.
